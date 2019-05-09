@@ -1,0 +1,9 @@
+nats:
+  host : localhost
+  port : 4222
+pg:
+  host : localhost
+  port : 5432
+  database : gpsinstant
+  username : gpswriter
+  password : gpswriter
